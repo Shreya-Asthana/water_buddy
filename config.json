@@ -1,0 +1,22 @@
+{
+  "reminder_minutes": 60,
+  "snooze_minutes": 10,
+  "daily_goal": 8,
+  "show_on_startup": true,
+  "startup_delay_seconds": 3,
+  "character_width": 200,
+  "character_height": 200,
+  "screen_margin_right": 24,
+  "screen_margin_bottom": 44,
+  "walk_duration_ms": 2600,
+  "response_display_ms": 4500,
+  "sound_enabled": true,
+  "asset_names": {
+    "walk_out": "walk out.gif",
+    "walk_in": "walk in.gif",
+    "reminder": "reminder mode.gif",
+    "happy": "happy mode.gif",
+    "sad": "sad mode.gif",
+    "legend": "hydration legend mode.gif"
+  }
+}
